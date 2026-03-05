@@ -1,6 +1,6 @@
 ![Image Alt Text](https://i.ibb.co/sJVDRvV/wp6767845-indigo-airlines-wallpapers.jpg)
 
-# [Airlines Data Analysis ](https://u43xftqvbcfmptwkp9cayh.streamlit.app/)
+# [Airlines Data Analysis ]
 
 ## Steps Included 
 * Understanding the Business Problem
